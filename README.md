@@ -1,1 +1,1 @@
-Hi there!
+Hi there! I'm Saskia Kusnadi, aspiring data scientist focusing in machine learning in energy, decarbonization & environmental field. I use Python, R, and SQL for my work. It has been a wonderful journey in my learning process! Please, reach out if you have similar interst to my linkedin: https://www.linkedin.com/in/saskiakusnadi/
